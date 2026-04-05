@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="/web (snapshot).xml">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="/web (snapshot).xml" />
+              <option name="originalContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;web-app xmlns=&quot;https://jakarta.ee/xml/ns/jakartaee&quot;&#10;         xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&#10;         xsi:schemaLocation=&quot;https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd&quot;&#10;         version=&quot;5.0&quot;&gt;&#10;    &lt;display-name&gt;Supermercado Alimentos&lt;/display-name&gt;&#10;&#10;    &lt;welcome-file-list&gt;&#10;        &lt;welcome-file&gt;index.jsp&lt;/welcome-file&gt;&#10;    &lt;/welcome-file-list&gt;&#10;&#10;    &lt;jsp-config&gt;&#10;        &lt;taglib&gt;&#10;            &lt;taglib-uri&gt;jakarta.tags.core&lt;/taglib-uri&gt;&#10;            &lt;taglib-location&gt;/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar&lt;/taglib-location&gt;&#10;        &lt;/taglib&gt;&#10;    &lt;/jsp-config&gt;&#10;&lt;/web-app&gt;&#10;" />
+              <option name="updatedContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;web-app xmlns=&quot;https://jakarta.ee/xml/ns/jakartaee&quot;&#10;         xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&#10;         xsi:schemaLocation=&quot;https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd&quot;&#10;         version=&quot;5.0&quot;&gt;&#10;    &lt;display-name&gt;Supermercado Alimentos&lt;/display-name&gt;&#10;&#10;    &lt;welcome-file-list&gt;&#10;        &lt;welcome-file&gt;index.jsp&lt;/welcome-file&gt;&#10;    &lt;/welcome-file-list&gt;&#10;&#10;    &lt;jsp-config&gt;&#10;    &lt;/jsp-config&gt;&#10;&lt;/web-app&gt;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
